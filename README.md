@@ -2,7 +2,7 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0431a6d941d645b7b739b354741cb2e7)](https://app.codacy.com/gh/BAN-AI-Communications/ckwin?utm_source=github.com&utm_medium=referral&utm_content=BAN-AI-Communications/ckwin&utm_campaign=Badge_Grade_Settings)
 
-----
+---
 
 This is C-Kermit for Windows. It is a free and open source version of the
 program formerly known as Kermit-95, a commercial product of Columbia University
